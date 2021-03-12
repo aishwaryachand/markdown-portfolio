@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+* Lets make a to do list.
+   * Airbnb
+   * Tower of hanoi
+   * etc.
+   
